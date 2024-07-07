@@ -1,0 +1,29 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+/* Banner Sectio */
+
+.text-size3 {
+  font-size: 45px;
+  font-weight: 600;
+}
+.myName {
+  font-size: 85px;
+  font-weight: 700;
+}
+.bnr-child {
+  width: 585px;
+  height: 360px;
+}
+.bnr-img-child2 {
+  width: 585px;
+  height: 670px;
+}
+.bnr-parent {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 40px 0 230px;
+}

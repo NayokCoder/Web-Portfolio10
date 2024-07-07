@@ -9,7 +9,7 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+  margin: 50px 230px;
 }
 ul {
   display: flex;
@@ -41,25 +41,9 @@ ul li a {
   font-weight: 800;
   border-radius: 5px;
 }
-/* Banner Sectio */
-.text-size3 {
-  font-size: 45px;
-  font-weight: 600;
-}
-.myName {
-  font-size: 85px;
-  font-weight: 700;
-}
-.bnr-child {
-  width: 585px;
-  height: 360px;
-}
-.bnr-img-child2 {
-  width: 585px;
-  height: 670px;
-}
-.bnr-parent {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 40px 0 200px;
+
+.hdr-bg-img {
+  background-image: url(developer.png), url(header_bg.png);
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
 }
