@@ -43,7 +43,7 @@ ul li a {
 }
 
 .hdr-bg-img {
-  background-image: url(developer.png), url(header_bg.png);
+  background-image: url(/img/developer.png), url(/img/header_bg.png);
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 }

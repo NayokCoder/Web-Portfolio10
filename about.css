@@ -4,3 +4,34 @@
   font-style: normal;
   font-variation-settings: "wdth" 100;
 }
+/* About Section CSS */
+.bg-main {
+  background-color: #fff8f3;
+}
+.about-container {
+  margin: 130px 230px 0 230px;
+  height: 550px;
+}
+
+.text-deco {
+  font-weight: bold;
+}
+.about {
+  padding: 135px 155px 135px 155px;
+}
+.bg-color {
+  background-color: aliceblue;
+
+  height: 288px;
+}
+.about-item-parent {
+  display: flex;
+  justify-content: space-evenly;
+}
+.h2-about {
+  text-align: center;
+  font-size: 35px;
+}
+.about-para {
+  margin: 0 auto;
+}
