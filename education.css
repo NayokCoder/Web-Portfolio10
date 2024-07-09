@@ -1,0 +1,29 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+/* Education part? */
+.edu-main-container {
+  margin-top: 130px;
+}
+.bio {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+.resume-container {
+  display: flex;
+  gap: 71px;
+  margin: 110px 230px 0 230px;
+}
+.title-1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+#btn3 {
+  margin-top: 50px;
+  text-align: center;
+}

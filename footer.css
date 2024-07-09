@@ -1,0 +1,51 @@
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+/* Footer Section */
+.ftr-container {
+  margin-top: 110px;
+}
+.main-cont {
+  display: flex;
+  gap: 117px;
+  margin: 0 230px 0 230px;
+  padding: 130px 0 130px 0;
+}
+.footer-h {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.icon {
+  width: 120px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.bg-main {
+  background-color: #fff8f3;
+  height: 780px;
+}
+
+.l1,
+.l2 {
+  width: 460px;
+  height: 65px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 25px;
+  font-size: 16px;
+  padding: 10px 20px;
+}
+.l3 {
+  width: 460px;
+  height: 180px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 25px;
+  font-size: 16px;
+  padding: 10px 20px;
+}
